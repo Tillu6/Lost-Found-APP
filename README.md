@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Tillu6/sit708_Task_7.1P/blob/main/app/src/main/ic_launcher-playstore.png"
-       alt="Lost & Found App Icon" width="150"/>
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/19f328d9-654d-481b-9254-062ae7b4f90d" />
 </p>
 
 # 🚀 Lost & Found APP
@@ -9,6 +8,7 @@
 <img src="https://img.shields.io/badge/SQLite-Embedded-blue.svg" alt="SQLite">
 
 **Lost & Found APP** helps you post and discover lost or found items with ease—online or offline. Built for the SIT708 course, it features Material Design, notch‑safe layouts, and a lightweight SQLite backend.
+
 
 ---
 
